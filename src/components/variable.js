@@ -52,7 +52,7 @@ const works = [
   {
     image: Staysavvy,
     title: "stay-savvy",
-    url: "https://stay-savvy-rho.vercel.app",
+    url: "https://stay-savvy-phi.vercel.app",
     source: "https://github.com/hoangtrung1002/staysavvy",
   },
   {
