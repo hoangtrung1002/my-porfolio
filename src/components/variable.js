@@ -58,7 +58,7 @@ const works = [
   {
     image: Yoom,
     title: "yoom",
-    url: "https://zoom-clone-beta-opal.vercel.app",
+    url: "zoom-clone-hoangtrung1002s-projects.vercel.app",
     source: "https://github.com/hoangtrung1002/zoom-clone",
   },
   {
