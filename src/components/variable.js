@@ -7,7 +7,7 @@ import TailwindCss from "../assets/tailwindcss.png";
 import Staysavvy from "../assets/staysavvy.png";
 import Reflix from "../assets/reflix.png";
 import Shazam from "../assets/shazam.png";
-import Snapgram from "../assets/snapgram.png";
+import Moji from "../assets/moji.png";
 import Yoom from "../assets/yoom.png";
 const skills = [
   {
@@ -44,10 +44,10 @@ const skills = [
 
 const works = [
   {
-    image: Snapgram,
-    title: "snapgram",
-    url: "https://snapgram-xi-blush.vercel.app/",
-    source: "https://github.com/hoangtrung1002/snapgram",
+    image: Moji,
+    title: "moji",
+    url: "https://moji-chat-app-pearl.vercel.app",
+    source: "https://github.com/hoangtrung1002/moji-chat-app",
   },
   {
     image: Staysavvy,
