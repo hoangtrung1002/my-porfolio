@@ -4,7 +4,6 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
 
 import Logo from "../assets/logo2.png";
-import Cv from "../assets/cv.pdf";
 
 function Navbar() {
   const [nav, setNav] = useState(true);
@@ -100,7 +99,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-indigo-500">
             <a
               className="flex items-center justify-between w-full text-gray-200 "
-              href={Cv}
+              href="https://flowcv.com/resume/8jcnv1ws1qsl"
               target="_blank"
               rel="noreferrer"
             >
